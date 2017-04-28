@@ -1,3 +1,4 @@
+// lol totally unnecessary redux
 const VOTE_FOR_GIF = "VOTE_FOR_GIF";
 
 const initialState = {
